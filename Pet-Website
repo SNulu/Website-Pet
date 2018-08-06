@@ -5,5 +5,12 @@
   </head>
   <body>
     <h1>My pet dogs Bella & Nilo</h1>
+    <h2> Bella and Nilo's favorite things to do.</h2>
+    <ul>
+      <li>Hiking</li>
+      <li>Eating</li>
+      <li>Napping</li>
+    </ul>
+
   </body>
 </html>
